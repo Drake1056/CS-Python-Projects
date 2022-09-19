@@ -1,6 +1,6 @@
 
-name = input("What's your name? ").strip()
+name = input("What's your name? ").strip().expandtabs()
 
 
 # Say hello to user
-print(f"hello {name}", expandtabs("..."))
+print(f"hello {name}" )
