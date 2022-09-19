@@ -3,4 +3,4 @@ name = input("What's your name? ").strip().title()
 
 
 # Say hello to user
-print(f"hello, {name}", sep= "..." )
+print(f"hello, {name}" )
