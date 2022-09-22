@@ -1,7 +1,10 @@
 
-name = input("What's your name? ").strip()
+name = input("What's your name? ").strip().expandtabs()
 
+#Space between user's name
+#default tabsize is 8
+str = hello\ name
 
-# Say hello to user
-print(f"hello {name}" .expandtabs())
+result = str.expandtabs()
 
+print(result)
