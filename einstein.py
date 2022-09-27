@@ -3,7 +3,7 @@ def main():
     print("E:", multiply (m * c))
 
 
-def multiply (m * c):
-    return m * 2.998 * 10 pow 8
+def multiply ():
+    return m * 2.998 * pow(10, 8)
 
-    main():
+    main()
