@@ -6,4 +6,4 @@ def main():
 def multiply ():
     return m * 2.998 * pow(10, 8)
 
-    main()
+main()
