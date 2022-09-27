@@ -1,6 +1,6 @@
 def main():
     m = int(input("m:"))
-    print("E:", multiply ())
+    print("E:", multiply (m))
 
 
 def multiply ():
