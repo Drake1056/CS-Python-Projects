@@ -7,12 +7,12 @@ def main():
         # print output
         print(result)
 
-def convert(user)
+def convert(user):
     #Replace :) for happy emoji
     user1 = user.replace(":)", '🙂')
 
     # Replace :( for sad emoji
     user2 =user1.replace(":(", '🙁')
     # Return string
-
+    return(user2)
 main()
