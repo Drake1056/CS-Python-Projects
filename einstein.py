@@ -1,9 +1,6 @@
-def main():
-    m = int(input("m:"))
-    print("E:", multiply (m))
+m = int(input("m:"))
 
+c = 300000000
 
-def multiply ():
-    return m * 2.998 * pow(10, 8)
+E = m * (c ** 2)
 
-main()
