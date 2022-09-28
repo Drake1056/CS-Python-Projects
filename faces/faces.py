@@ -9,10 +9,10 @@ def main():
 
 def convert(user)
     #Replace :) for happy emoji
-    new_user = user.replace(":)", :
+    user1 = user.replace(":)", '🙂')
 
     # Replace :( for sad emoji
-
+    user2 =user1.replace(":(", '🙁')
     # Return string
 
 main()
