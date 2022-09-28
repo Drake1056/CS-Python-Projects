@@ -1,9 +1,7 @@
 def main():
         #Get input from user
-    user = input()
-
-
-        # Call convert function
+        user = input()
+      # Call convert function
 
 
         # print output
