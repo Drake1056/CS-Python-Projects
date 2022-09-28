@@ -1,10 +1,7 @@
+# Get input from user
 
-name = input("What's your name? ").strip().expandtabs()
 
-#Space between user's name
-#default tabsize is 8
-str = "hello"; name
+# Change whitespace for 3 dots
 
-result = str.expandtabs()
 
-print(result)
+# Print Output
