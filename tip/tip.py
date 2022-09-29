@@ -9,6 +9,8 @@ def dollars_to_float(d):
     return float(d_without_dollar_sign)
 
 
-
-
 def percent_to_float(p):
+    p_without_percent = p.replace("%", "")
+    return float(p_without_percent)
+
+main()
