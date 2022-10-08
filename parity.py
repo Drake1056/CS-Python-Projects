@@ -1,8 +1,6 @@
-X = int(input("What's X? "))
-if X % 2 == 0:
-    print("Even")
+def main():
 
-else:
-    print("Odd")
+X = int(input("What's X? "))
+
 
 
