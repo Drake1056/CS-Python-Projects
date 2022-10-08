@@ -4,9 +4,9 @@ def main():
     if is_even(X):
         print("Even")
     else:
-        print("Odd)
+        print("Odd")
 
-def is_even(n)
+def is_even(n):
     if n % 2 == 0:
         return True
     else:
