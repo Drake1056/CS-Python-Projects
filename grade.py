@@ -1,15 +1,15 @@
 Score = int(input("Score: "))
 
-if Score >= 90 and Score <= 100:
+if 90<= Score and Score <= 100:
     print("Grade: A")
 
-elif Score >= 80 and Score < 90:
+elif 80<= Score and Score < 90:
     print("Grade: B")
 
-elif Score >= 70 and Score <80:
+elif 70<= Score and Score <80:
         print("Grade: C")
 
-elif Score >= 60 and Score < 70:
+elif 60<= Score and Score < 70:
     print("Grade: D")
 
 else:
