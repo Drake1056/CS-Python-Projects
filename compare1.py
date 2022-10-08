@@ -1,7 +1,7 @@
 x = int(input("What's X? " ))
 y = int(input("What's Y? " ))
 
-if x < y or x> y:
+if x != y:
     print("X is not equal to Y" )
 
 else:
