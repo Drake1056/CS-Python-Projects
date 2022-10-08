@@ -5,7 +5,7 @@ if name == "Harry":
 elif name == "Hermione":
     print("Gryffindor")
 elif name == "Ron":
-    ("Gryffindor")
+    print("Gryffindor")
 elif name == "Draco":
     print("Syltherin")
 
