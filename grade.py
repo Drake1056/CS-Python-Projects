@@ -1,6 +1,6 @@
 Score = int(input("Score: "))
 
-elif Score >= 90:
+if Score >= 90:
     print("Grade: A")
 
 elif Score >= 80:
