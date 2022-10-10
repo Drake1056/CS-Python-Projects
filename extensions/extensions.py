@@ -4,7 +4,7 @@ new_filename = filename.lower()
 
 # gif or jpeg or jpg or png, print "image/type"
 if '.gif'  in new_filename:
-    print("image/type")
+    print("image/gif")
 elif '.jpeg' in new_filename:
     print("image/jpeg")
 elif '.jpg' in new_filename:
