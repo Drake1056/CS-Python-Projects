@@ -1,7 +1,7 @@
 # Get user input
 answer = input("Greeting:  ")
 
-new_answer = answer.lower()
+new_answer = answer.lower().strip()
 
 # Check if the answer has "hello"
 if 'hello' in new_answer:
