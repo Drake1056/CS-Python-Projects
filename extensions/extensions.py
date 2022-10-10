@@ -1,10 +1,6 @@
 # Ask usrer for the file's name
 filename: input("File name: ")
 
-# Remove whitespaces and make it lowercase
-
-
-
 # gif or jpeg or jpg or png, print "image/type"
 
 
