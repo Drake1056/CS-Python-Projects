@@ -5,4 +5,7 @@
 
 
 
-# 
+# gif or jpeg or jpg, print "image/type"
+
+
+# If PDF of Zip, print "
