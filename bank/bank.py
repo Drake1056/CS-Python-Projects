@@ -12,3 +12,5 @@ elif 'h' == new_answer[0]:
     print("$20")
 
 #Otherwise
+else:
+    print("$100")
