@@ -8,8 +8,7 @@ if 'hello' in new_answer:
     print("$0")
 
 # Check if answer starts with "h"
-elif 'h' == new_answer
+elif 'h' == new_answer[0]:
+    print("$20")
 
-
-
-#otherwise
+#Otherwise
