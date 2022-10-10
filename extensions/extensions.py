@@ -8,4 +8,11 @@
 # gif or jpeg or jpg, print "image/type"
 
 
-# If PDF of Zip, print "
+# If PDF of Zip, print "application/PDF"
+
+
+# If txt, print "text/plain"
+
+
+
+# otherwise, print "application/octet-stream"
