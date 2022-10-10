@@ -15,12 +15,12 @@ elif '.png' in  new_filename:
 # If PDF of Zip, print "application/type"
 if '.pdf' in new_filename:
     print("application/pdf")
-elif '.Zip' in new_filename:
+elif '.zip' in new_filename:
     print("application/Zip")
 
 # If txt, print "text/plain"
 if '.txt' in new_filename:
-    print("text/plain)
+    print("text/plain")
 
 
 # otherwise, print "application/octet-stream"
