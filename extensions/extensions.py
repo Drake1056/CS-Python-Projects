@@ -16,7 +16,7 @@ elif '.png' in  new_filename:
 elif '.pdf' in new_filename:
     print("application/pdf")
 elif '.zip' in new_filename:
-    print("application/Zip")
+    print("application/zip")
 
 # If txt, print "text/plain"
 elif '.txt' in new_filename:
