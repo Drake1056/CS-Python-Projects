@@ -24,5 +24,5 @@ elif '.txt' in new_filename:
 
 
 # otherwise, print "application/octet-stream"
-else:
+otherwise:
     print("application/octet-stream")
