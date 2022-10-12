@@ -5,7 +5,7 @@ x, y, z = expression.split(" ")
 
 # change x & y into float
 x_new = float(x)
-z_new = float(y)
+z_new = float(z)
 
 # Calculate results
 if y == "+":
