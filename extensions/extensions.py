@@ -13,7 +13,7 @@ elif '.png' in  new_filename:
     print("image/png")
 
 # If PDF of Zip, print "application/type"
-elif '.pdf' in new_filename:
+elif '.pdf' in new_filename
     print("application/pdf")
 elif '.zip' in new_filename:
     print("application/zip")
