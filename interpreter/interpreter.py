@@ -2,6 +2,7 @@
 expression =input("Expression: ")
 # Convert user's input into variable
 x, y, z = expression.split(" ")
+
 # change x & y into float
 x_new = float(x)
 z_new = float(z)
