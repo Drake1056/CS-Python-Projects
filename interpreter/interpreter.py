@@ -1,17 +1,20 @@
 # Ask user for Input
-expression = int(input("Expression: "))
+expression =input("Expression: ")
 # Convert user's input into variable
 x, y, z = expression.split(" ")
 
 # change x & y into float
 x_new = float(x)
-y_new = float(y)
+z_new = float(y)
 
 # Calculate results
 if y == "+":
-    result = x_new + y_new
+    result = x_new + z_new
 if y == "-":
-    result = x_new - y_new
+    result = x_new - z_new
 if y == "*":
-    reslt
+    result = x_new * z_new
+if y == "/":
+    result = x_new / z_new
+print(round(result, 1))
 
