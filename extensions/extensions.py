@@ -7,8 +7,8 @@ if '.gif'  in new_filename:
     print("image/gif")
 elif '.jpeg' in new_filename:
     print("image/jpeg")
-elif '.jgp' in new_filename:
-    print("image/jpg")
+elif '.jpg' in new_filename:
+    print("image/jpeg")
 elif '.png' in  new_filename:
     print("image/png")
 
