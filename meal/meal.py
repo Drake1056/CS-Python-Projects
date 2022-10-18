@@ -20,7 +20,14 @@ def main():
 
 def convert(time):
 
+# Get hour and minute
 
+
+# Convert time to float
+
+
+# Return result
 
 if _name_ == "_main_":
 
+    main()
