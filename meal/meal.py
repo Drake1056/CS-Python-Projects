@@ -1,10 +1,10 @@
 def main():
 
 # Get time from user
-time_answer = input("What time is it?" )
+answer = input("What time is it?" )
 
 # Convert Function
-time = convert(time_answer)
+time = convert(answer)
 
 
 # Breakfast between 7:00 and 8:00
@@ -21,6 +21,7 @@ time = convert(time_answer)
 def convert(time):
 
 # Get hour and minute
+hours, minutes = time.split(":")
 
 
 # Convert time to float
