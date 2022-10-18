@@ -4,7 +4,7 @@ def main():
 time_answer = input("What time is it?" )
 
 # Convert Function
-
+time = convert(time_answer)
 
 
 # Breakfast between 7:00 and 8:00
