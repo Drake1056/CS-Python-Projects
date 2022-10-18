@@ -1,7 +1,7 @@
 def main():
 
 # Get time from user
-
+time = input("What time is it?" )
 
 # Convert Function
 
