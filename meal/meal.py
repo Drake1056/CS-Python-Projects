@@ -5,10 +5,9 @@ answer = input("What time is it?" )
 
 # Convert Function
 time = convert(answer)
-print(time)
 
 # Breakfast between 7:00 and 8:00
-
+if 
 
 
 # lunch between 12:00 and 13:00
