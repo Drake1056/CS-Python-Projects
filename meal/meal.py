@@ -6,4 +6,6 @@ def convert(time):
 
 
 
-if 
+if _name_ == "_main_":
+
+    
