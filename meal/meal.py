@@ -20,11 +20,11 @@ def main():
 
 def convert(time):
     # Get hour and minute
-     hours, minutes = time.split(":")
+    hours, minutes = time.split(":")
     # Convert time to float
-    new_minute = float(minutes) / 60  
+    new_minute = float(minutes) / 60
     # Return result
     return float(hours) + new_minute
 
-if _name_ == "_main_":
+if __name_ == "_main_":
     main()
