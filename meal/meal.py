@@ -19,7 +19,6 @@ def main():
         print("dinner time")
 
 def convert(time):
-
     # Get hour and minute
      hours, minutes = time.split(":")
 
