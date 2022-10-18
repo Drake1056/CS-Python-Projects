@@ -11,7 +11,7 @@ def main():
         print ("breakfast time")
 
     # lunch between 12:00 and 13:00
-     if time >= 12 and time <= 13:
+    if time >= 12 and time <= 13:
         print("lunch time")
 
     # dinner between 18:00 and 19:00
@@ -24,7 +24,7 @@ def convert(time):
      hours, minutes = time.split(":")
 
     # Convert time to float
-    new_minute = float(minutes)/ 60
+    new_minute = float(minutes) / 60
 
     # Return result
         return float(hours) + new_minute
