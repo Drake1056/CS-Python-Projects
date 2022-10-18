@@ -26,5 +26,5 @@ def convert(time):
     # Return result
     return float(hours) + new_minute
 
-if __name_ == "_main_":
+if __name__ == "__main__":
     main()
