@@ -23,7 +23,10 @@ def is_valid(s):
         i += 1
 
     for c in s:
-        if c in 
+        if c in ['.', ' ', '!', '?']:
+            return False
+
+    return True
 
 
 main()
