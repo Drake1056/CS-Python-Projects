@@ -22,6 +22,14 @@ def is_valid(s):
                 break
         i += 1
 
+
+    for i in range (len(s)):
+        if s[i].isdigit():
+            if not s[i:].isdigit():
+                return False
+
+
+
     for c in s:
         if c in ['.', ' ', '!', '?']:
          return False
