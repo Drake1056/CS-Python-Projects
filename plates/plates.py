@@ -19,7 +19,10 @@ def is_valid(s):
             if s[i] == '0':
                 return False
             else :
-                
+                break
+        i += 1
+
+    
 
 
 main()
