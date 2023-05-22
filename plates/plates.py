@@ -24,7 +24,7 @@ def is_valid(s):
 
     for c in s:
         if c in ['.', ' ', '!', '?']:
-            return False
+         return False
 
     return True
 
