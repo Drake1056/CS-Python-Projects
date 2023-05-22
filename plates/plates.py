@@ -22,7 +22,8 @@ def is_valid(s):
                 break
         i += 1
 
-    
+    for c in s:
+        if c in 
 
 
 main()
