@@ -25,6 +25,6 @@ fruits = {
 fruit_asked = input("Item: ")
 
 for key in fruits:
-    if key == fruit_asked:
+    if key == fruit_asked.lower():
         print("Calories:", fruits[key])
 
