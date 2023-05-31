@@ -19,9 +19,8 @@ fruits = {
     "sweet cherries": 100,
     "tangerine": 50,
     "watermelon": 80,
-    
-
-
-
 
 }
+
+fruit_asked = input("Item: ")
+
